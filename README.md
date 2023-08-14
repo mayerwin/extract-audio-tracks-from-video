@@ -1,2 +1,2 @@
-# Extract-Audio-Tracks-From-Video
-Simple standalone Windows app to extract audio tracks from a video file using FFMPEG
+# Extract Audio Tracks From Video
+Simple standalone Windows app to extract audio tracks from a video file using FFMPEG. Created in literally 5 minutes using ChatGPT (GPT-4, see complete chat [here](https://chat.openai.com/share/d9f8bf8c-da21-4be4-804d-a8114d03169c)).
